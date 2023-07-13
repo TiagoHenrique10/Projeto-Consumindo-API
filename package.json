@@ -1,0 +1,14 @@
+{
+  "name": "consumindoapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch db.json"
+  },
+  "author": "Tiago Henrique",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "transactions": [
+    {
+      "name": "Salário",
+      "id": 2,
+      "amount": 3200
+    },
+    {
+      "name": "Conta de água",
+      "id": 3,
+      "amount": -60
+    },
+    {
+      "name": "Conta de luz",
+      "id": 4,
+      "amount": -150
+    },
+    {
+      "name": "Freelancer",
+      "amount": 1000,
+      "id": 5
+    },
+    {
+      "name": "Gym",
+      "amount": -120,
+      "id": 6
+    },
+    {
+      "name": "Mercado",
+      "amount": -700,
+      "id": 7
+    },
+    {
+      "name": "Freelancer",
+      "amount": 1500,
+      "id": 8
+    }
+  ]
+}
