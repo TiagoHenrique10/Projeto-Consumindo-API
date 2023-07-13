@@ -19,3 +19,5 @@ Com base nas aulas de tópicos avançados do javascript desenvolva uma aplicaç�
 - A aplicação deverá permitir excluir uma transação através de uma requisição DELETE (as requisições DELETE não precisam de um body, apenas do id do recurso a ser excluído na url).
 - A aplicação também deverá mostrar na página o saldo total, que é calculado somando todos os valores das transações (que podem ser positivos ou negativos).
 - O valor do saldo total deve estar sempre atualizado na tela, ou seja, ao criar, editar ou excluir uma transação o saldo deverá refletir o novo valor.
+- ### Resultado final do Projeto
+- ![Consumindo uma API](https://github.com/TiagoHenrique10/Projeto-Consumindo-API/assets/96561261/eab786d8-ad72-4c4e-b60b-924a0836d39a)
